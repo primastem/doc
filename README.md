@@ -1,2 +1,2 @@
-# docs
+# doc
 Documentation of PrimaSTEM
