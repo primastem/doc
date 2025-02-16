@@ -78,22 +78,9 @@ Il est clair qu'il est destiné aux enfants. Ils l'utilisent pour jouer, mais il
 
 L'enfant acquiert une base mathématique et algorithmique, c'est une préparation à l'école et la première étape avant de maîtriser la programmation Scratch, Logo ou Minecraft sur l'ordinateur.
 
-## L'avis de nos Partenaires.
-
-|Violaine Locus|Ludovic Augustin|Béatrice Saslawsky|Delphine Vandeweghe|
-|:-:|:-:|:-:|:----------:|
-|Professeur des écoles|Professeur de Technologie|Professeur des écoles|Professeur en ecole spécialisé|
-|[Ecole élémentaire Bocca Muriers](https://www.education.gouv.fr/annuaire/06150/cannes/ecole/0060769d/ecole-elementaire-bocca-muriers.html)| |[Ecole élémentaire Bocca Muriers](https://www.education.gouv.fr/annuaire/06150/cannes/ecole/0060769d/ecole-elementaire-bocca-muriers.html)| |
-| "PrimaSTEM peut nous aider à éveiller les enfants aux mathématiques tout en s'amusant." | "Super ludique pour l'apprentissage sans écran, un vrai plus pédagogique." | "Je suis convaincu que nous pouvons aller plus loin dans l'enseignement grace à cet outil." | "PrimaSTEM peut aider les enfants des écoles spécialisées en occupant leur esprit différemment. La visualisation, l'interprétation et le côté ludique sont un vrai atout pour ces enfants." |
-
 ![Spirale](images/robot_spiral.jpeg)
 
 *Exemple de résultat de l'exécution d'un programme de dessin d'une spirale utilisant l'incrémentation dynamique de variables dans une boucle.*
 
-## Et maintenant?
-
-**PrimaSTEM est notre tentative de créer quelque chose dont les enseignants ont besoin, qui soit flexible et intuitif.**
-
-Nous recherchons actuellement des partenaires pour lancer le projet en France et nous nous efforçons d'attirer des investissements, d'ouvrir un bureau et de produire dans l'UE. Nous sommes prêts pour la coopération et le partenariat.
 
 

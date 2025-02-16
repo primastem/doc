@@ -73,8 +73,3 @@ The child acquires a mathematical and algorithmic base that is a preparation for
 
 *Example of program execution result for drawing a spiral using dynamic increase of variables in a loop.*
 
-## What's next?
-
-**PrimaSTEM is our attempt to create something people need, tangible and beautiful.**
-
-Now we are looking for partners to launch the project in France and are working on attracting investment, opening an office and production in the EU. We are ready for cooperation and partnership.
