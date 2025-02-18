@@ -3,7 +3,11 @@
 
 <head>
 
-
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
 
 <!-- MailerLite Universal -->
 <script>
