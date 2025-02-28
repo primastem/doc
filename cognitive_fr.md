@@ -1,4 +1,4 @@
-# RÉHABILITATION COGNITIVE DES PERSONNES ÂGÉES À L'AIDE DU COMPLEXE ROBOTIQUE PrimaStem
+# Réhabilitation cognitive des personnes âgées à l'aide du complexe robotique PrimaStem
 
 ## INTRODUCTION
 

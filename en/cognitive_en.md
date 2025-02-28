@@ -1,4 +1,4 @@
-# COGNITIVE REHABILITATION FOR ELDERLY USING PrimaStem ROBOTIC COMPLEX
+# Cognitive rehabilitation for elderly using PrimaStem robotic complex
 
 ## INTRODUCTION
 
