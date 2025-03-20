@@ -4,7 +4,7 @@
 
 | Код | Результат |
 | --- | --- |
-| ![star10.excalidraw.png](images/star10.excalidraw.svg) | ![IMG_20240207_202553.jpg](images/IMG_20240207_202553.jpg) |
+| ![star10.excalidraw.png](images/star10.excalidraw.svg) | ![star10draw.excalidraw.svg](images/star10draw.excalidraw.svg) |
 
 ## Правильный пятиугольник
 
