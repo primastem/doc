@@ -66,4 +66,4 @@
 | --- | --- |
 | ![spiral.excalidraw.png](images/spiral.excalidraw.svg) | ![spiraldraw.excalidraw.svg](images/spiraldraw.excalidraw.svg) |
 
-[robot_spiral_01.jpg](images/robot_spiral_01.jpg)
+![robot_spiral_01.jpg](images/robot_spiral_01.jpg)
