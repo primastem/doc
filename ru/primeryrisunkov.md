@@ -10,7 +10,7 @@
 
 | Код | Результат |
 | --- | --- |
-| ![5angles.excalidraw.png](images/5angles.excalidraw.png) | ![5anglesdraw.excalidraw.png](images/5anglesdraw.excalidraw.png) |
+| ![5angles.excalidraw.png](images/5angles.excalidraw.png) | ![5anglesdraw.excalidraw.png](images/test.excalidraw.svg) |
 
 ## Простая пятиконечная звезда
 
