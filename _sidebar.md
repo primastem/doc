@@ -3,7 +3,7 @@
 - [**Guide de l'enseignant**](guidedelenseignant1)
 - [**Réhabilitation cognitive**](cognitive_fr)
 - [**Puces**](nfc_fr)
-- [**Exemples de dessins mathématiques**](exemplesdedessins.md)
+- [**Exemples de dessins mathématiques**](math_drawings_fr)
 - [**Сontacts**](contacts)
   
 ---
