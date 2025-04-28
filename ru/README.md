@@ -8,17 +8,17 @@
 
 ## Актуальность
 
-![kids](images/kids.png)
-
 **Современные дети** с раннего возраста проявляют интерес к видеоиграм и электронным устройствам, быстро осваивая их.
 
 Родители осознают важность информационных технологий для успешного развития ребёнка, но при этом стремятся сохранить баланс между обучением и здоровьем детей.
+
+![kids](images/kids.png)
 
 Исследования показывают, что раннее и частое взаимодействие с экранами может снижать когнитивные способности и учебную успеваемость.
 
 ![graph](images/graph_2.jpg)
 
-*Источник: Программа международной оценки образовательных достижений (PISA) [2022 Results (Volume I)](https://www.oecd-ilibrary.org/education/pisa-2022-results-volume-i_53f23881-en)*
+*Источник: Программа международной оценки образовательных достижений (PISA), [2022 Results (Volume I)](https://www.oecd-ilibrary.org/education/pisa-2022-results-volume-i_53f23881-en)*
 
 Использование экранных устройств детьми младшего возраста часто приводит к:
 - психологическим трудностям,
@@ -54,7 +54,7 @@
 3. Нажмите кнопку «Выполнить».
 4. Робот исполнит программу.
 
-**Краткая видео-презентация:**  
+**Видео-презентация:**  
 [youtu.be/Ztq_I1WBiVo](https://youtu.be/Ztq_I1WBiVo)
 
 <iframe src="https://www.youtube.com/embed/Ztq_I1WBiVo?si=ZNSLpsCC8WlPB671" width="100%" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
