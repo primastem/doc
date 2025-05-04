@@ -1,9 +1,9 @@
 - [**Intro**](README)
-- [**Mode d'emploi**](modedemploi)
-- [**Guide de l'enseignant**](guidedelenseignant1)
-- [**Réhabilitation cognitive**](cognitive_fr)
-- [**Exemples de dessins mathématiques**](math_drawings_fr)
-- [**Puces**](nfc_fr)
+- [**Mode d'emploi**](user_manual)
+- [**Guide de l'enseignant**](teachers_guide)
+- [**Réhabilitation cognitive**](cognitive)
+- [**Exemples de dessins mathématiques**](math_drawings)
+- [**Puces**](nfc)
 - [**Сontacts**](contacts)
   
 ---
